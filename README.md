@@ -50,7 +50,7 @@ Personaje |  Alumno
 Richard Stallman | Disponible 
 Linus Torvalds | Disponible
 Eric Raymond  | Disponible
-Guido Van Rossum | Disponible
+Guido Van Rossum | Miguel Romano R.
 Larry Wall   | Martha Castro
 Dennis Ritchie | Disponible
 Jon "Maddog" Hall | Disponible
@@ -66,7 +66,3 @@ Lawrence Lessig  | Disponible
 
 Todos los archivos deberán estar en el repositorio a mas tardar el **11 de
 Octubre de 2015**
-
-
-
-
