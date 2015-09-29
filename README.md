@@ -47,7 +47,7 @@ favor no hagan preguntas (por lo menos a mi) sobre Git para Windows.
 
 Personaje |  Alumno
 --------- | -------
-Richard Stallman | Disponible 
+Richard Stallman | Luis Vicente Gómez O. 
 Linus Torvalds | Disponible
 Eric Raymond  | Disponible
 Guido Van Rossum | Miguel Romano R.
