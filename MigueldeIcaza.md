@@ -22,10 +22,10 @@ En septiembre de 2009 Microsoft anuncio su fundación de código abierto CodePle
 En marzo de 2013 anuncio a través de su blog que el generalmente usaba Mac OS X en lugar de Linux en el escritorio: "Linux nunca se las arreglo para cruzar el abismo de escritorio", comento. Las razones del cambio se resumen, según De Icaza, en "la fragmentación de Linux como plataforma, las múltiples distribuciones incompatibles y las incompatibilidades entre las versiones de la misma distro". Una opinión que ha mantenido desde hace bastante tiempo, y que fue suavemente cuestionada, entre otros, por Linus Torvalds y Alan Cox.
 
 ```
-####Referencias:
+Referencias:
 
-*Miguel de Icaza*, consultado desde: https://es.wikipedia.org/wiki/Miguel_de_Icaza
+Miguel de Icaza, consultado desde: https://es.wikipedia.org/wiki/Miguel_de_Icaza
 
-*GNOME*, consultado desde: [https://es.wikipedia.org/wiki/GNOME](https://es.wikipedia.org/wiki/GNOME)
+GNOME, consultado desde: [https://es.wikipedia.org/wiki/GNOME](https://es.wikipedia.org/wiki/GNOME)
 
 ```
