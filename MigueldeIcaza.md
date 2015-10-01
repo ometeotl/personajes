@@ -23,9 +23,9 @@ En marzo de 2013 anuncio a través de su blog que el generalmente usaba Mac OS X
 
 ```
 Referencias:
+```
 
-Miguel de Icaza, consultado desde: https://es.wikipedia.org/wiki/Miguel_de_Icaza
+Miguel de Icaza, consultado desde: [https://es.wikipedia.org/wiki/Miguel_de_Icaza](https://es.wikipedia.org/wiki/Miguel_de_Icaza)
 
 GNOME, consultado desde: [https://es.wikipedia.org/wiki/GNOME](https://es.wikipedia.org/wiki/GNOME)
 
-```
