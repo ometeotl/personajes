@@ -52,7 +52,7 @@ Linus Torvalds | Rene Carranza
 Eric Raymond  | Disponible
 Guido Van Rossum | Miguel Romano R.
 Larry Wall   | Martha Castro
-Dennis Ritchie | Disponible
+Dennis Ritchie | Martín Páez
 Jon "Maddog" Hall | Disponible
 Ian Murdock  | David Orozco
 Rasmus Lerdorf | Disponible
