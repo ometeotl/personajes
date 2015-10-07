@@ -49,7 +49,7 @@ Personaje |  Alumno
 --------- | -------
 Richard Stallman | Luis Vicente Gómez O. 
 Linus Torvalds | Rene Carranza
-Eric Raymond  | Disponible
+Eric Raymond  | Anilu Flores
 Guido Van Rossum | Miguel Romano R.
 Larry Wall   | Martha Castro
 Dennis Ritchie | Martín Páez
