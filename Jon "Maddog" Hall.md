@@ -1,6 +1,6 @@
 #¿Quien es Jon "Maddog" Hall?
 
-![http://2.bp.blogspot.com/-MnEFwy5U50g/T-fEEcyo0iI/AAAAAAAAA2Y/g0-zeTWkKG4/s320/Jon-Hall-Maddog.jpg ](figura1.png)La historia de Jon Hall el líder de Linux, El creador de la opción gratuita de los sistemas operativos estuvo en Colombia. Un viejo que evangeliza sobre las ventajas de hacer las cosas de una manera diferente.
+![ Jon Hall Maddog ](http://2.bp.blogspot.com/-MnEFwy5U50g/T-fEEcyo0iI/AAAAAAAAA2Y/g0-zeTWkKG4/s320/Jon-Hall-Maddog.jpg)La historia de Jon Hall el líder de Linux, El creador de la opción gratuita de los sistemas operativos estuvo en Colombia. Un viejo que evangeliza sobre las ventajas de hacer las cosas de una manera diferente.
 
 Los empresarios de Silicon Valley tienen un perfil específico. Generalmente son jóvenes, como el dueño y fundador de Facebook, Mark Zuckerberg, o los fundadores de Google, Sergey Brin y Larry Page. Son innovadores en su industria, como Steve Jobs que resucitó a Apple en la última década, o Bill Gates que revolucionó la computación personal. Pero existe una contracultura en el mundo de los computadores que se llama Linux, y el abanderado es el presidente de Linux International, Jon “Maddog” Hall.
 
