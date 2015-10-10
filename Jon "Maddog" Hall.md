@@ -2,11 +2,7 @@
 
 Personaje |  Alumno
 --------- | -------
-Jon "Maddog" Hall? | ![ Jon Hall Maddog](http://2.bp.blogspot.com/-MnEFwy5U50g/T-fEEcyo0iI/AAAAAAAAA2Y/g0-zeTWkKG4/s320/Jon-Hall-Maddog.jpg)  
-
-![ Jon Hall Maddog](http://2.bp.blogspot.com/-MnEFwy5U50g/T-fEEcyo0iI/AAAAAAAAA2Y/g0-zeTWkKG4/s320/Jon-Hall-Maddog.jpg) 
-
-Jon “maddog” Hall (7 de agosto de 1950) actualmente es el presidente y director ejecutivo de Linux International y desde hace algunos años recorre el planeta con la finalidad de mostrar al mundo las ventajas del uso del sistema operativo Linux (Evangelista de Linux).
+Jon “maddog” Hall (7 de agosto de 1950) actualmente es el presidente y director ejecutivo de Linux International y desde hace algunos años recorre el planeta con la finalidad de mostrar al mundo las ventajas del uso del sistema operativo Linux (Evangelista de Linux). | ![ Jon Hall Maddog](http://2.bp.blogspot.com/-MnEFwy5U50g/T-fEEcyo0iI/AAAAAAAAA2Y/g0-zeTWkKG4/s320/Jon-Hall-Maddog.jpg)  
 
 Creció en un ambiente tecnológicamente avanzado para la mayoría de los chicos de su edad, cuando  tenía 19 años se interesó en las computadoras, y desde 1969 no ha dejado de ejercer en la informática. 
 
